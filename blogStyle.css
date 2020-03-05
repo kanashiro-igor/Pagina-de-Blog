@@ -1,0 +1,44 @@
+html {
+	background-image: url(Wallpaper.Skyrim.jpg);
+	background-size: cover;
+}
+
+body {
+	padding: 20px;
+	margin: 20px auto;
+	border: 20px solid #5f10b3;
+	background: white;
+	max-width: 700px;
+	width: 80%;
+	font-family: Raleway;
+}
+
+.post {
+	margin-bottom: 20px;
+}
+
+.date {
+	text-transform: uppercase;
+	word-spacing: 4px;
+	letter-spacing: 0.2rem;
+	font-size: 20px;
+	font-weight: 700;
+	color: #8757ba;
+}
+
+h2 {
+	font-size: 2.0rem;
+	color: #440982;
+	font-family: Raleway;
+	font-weight: 800;
+	font-size: 40px;
+}
+
+.quote {
+	border-left: 6px solid #ad73eb;
+	padding-left: 0.8%;
+}
+
+hr {
+	border-top: 1px solid #a35bf0;
+}
