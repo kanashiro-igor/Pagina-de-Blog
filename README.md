@@ -1,0 +1,1 @@
+Pagina basica de um Blog como exemplo, usando apenas CSS.
