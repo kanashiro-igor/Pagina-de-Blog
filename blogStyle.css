@@ -1,6 +1,7 @@
 html {
 	background-image: url(Wallpaper.Skyrim.jpg);
 	background-size: cover;
+	background-position: center;
 }
 
 body {
